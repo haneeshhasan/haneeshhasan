@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Haneesh Hasan
 - 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...haneeshhasan57@gmail.com
 
